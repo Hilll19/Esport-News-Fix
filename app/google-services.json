@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "304912624758",
+    "project_id": "esport-news-app",
+    "storage_bucket": "esport-news-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304912624758:android:5e62ad21f7d8885e6ec357",
+        "android_client_info": {
+          "package_name": "com.hilworking.esportnewsfix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304912624758-a402q8monp2qd9o57gb6v1bvmeb1po73.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hilworking.esportnewsfix",
+            "certificate_hash": "0eccf0d086d4a9629f2505cbc2d45740d0fb3683"
+          }
+        },
+        {
+          "client_id": "304912624758-i15lma16u16gdaum37mpn5j2l31kj5bb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVwe5sD2YmajJ-oVrs2EhQ0TdIWWy1c34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304912624758-i15lma16u16gdaum37mpn5j2l31kj5bb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

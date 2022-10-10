@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name" translatable="false">MaterialLoginPage</string>
+    <string name="top_icon" translatable="false">TOP ICON</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="username" translatable="false">Username</string>
+    <string name="password" translatable="false">Password</string>
+    <string name="login" translatable="false">LOGIN</string>
+    <string name="forgot_password" translatable="false">FORGOT PASSWORD?</string>
+    <string name="or" translatable="false">OR</string>
+    <string name="google_icon" translatable="false">google icon</string>
+    <string name="facebook_icon" translatable="false">facebook icon</string>
+    <string name="new_user_register_now" translatable="false">New User? Register Now</string>
+</resources>
